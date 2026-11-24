@@ -26,7 +26,7 @@ A small Windows tool that reads data from desktop applications through UI Automa
 - A pure parser (no Windows imports, tested on Linux) turns those names into meetings. The UI texts it looks for live in one table (Czech and English).
 
 ### 3. Write
-- Today's meetings go to an `.ics` file, which you import into the Google Calendar of the work account (`mirdvorak@trask.cz`). A stable UID per meeting keeps a repeated import free of duplicates.
+- Today's meetings go to an `.ics` file, which you import into the Google Calendar of the work account (`mirecekd@contoso.com`). A stable UID per meeting keeps a repeated import free of duplicates.
 
 ## ✨ Features
 
