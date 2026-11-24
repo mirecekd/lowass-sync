@@ -1,0 +1,13 @@
+# .gitignore - nothing private goes to git: notes, UI dumps (they contain meeting titles), generated calendars
+.env
+.venv/
+memory-bank/
+data/
+*.ics
+*.log
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+outlook*.txt
+dump*.txt
